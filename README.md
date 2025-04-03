@@ -107,6 +107,6 @@ This project demonstrates the power of SQL in deriving actionable insights from 
 
 ---
 
-For any inquiries or contributions, feel free to connect with me on [GitHub](https://github.com/yourusername).
+For any inquiries or contributions, feel free to connect with me on [GitHub](https://github.com/Chikeobigwe).
 
 
